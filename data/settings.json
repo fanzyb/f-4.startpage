@@ -151,6 +151,23 @@
 						"icon": "mdi:youtube"
 					}
 				]
+			},
+			{
+				"title": "Tools",
+				"color": "blue",
+				"align": "left",
+				"links": [
+					{
+						"name": "Repository F4",
+						"url": "https://drive.f-4.my.id",
+						"icon": "bx:data"
+					},
+					{
+						"name": "JKT48 Showroom Fanmade",
+						"url": "https://www.jkt48showroom.com/",
+						"icon": "ph:video-fill"
+					}
+				]
 			}
 		]
 	}
