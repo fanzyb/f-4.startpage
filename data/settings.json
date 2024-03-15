@@ -134,6 +134,23 @@
 						"icon": "ri:instagram-line"
 					}
 				]
+			},
+			{
+				"title": "Member Stuff",
+				"color": "green",
+				"align": "left",
+				"links": [
+					{
+						"name": "TikTok Djanur",
+						"url": "https://tiktok.com/@rdjanur",
+						"icon": "ri:tiktok-fill"
+					},
+					{
+						"name": "YouTube Channel Koje",
+						"url": "https://youtube.com/@fanzirfan_",
+						"icon": "mdi:youtube"
+					}
+				]
 			}
 		]
 	}
